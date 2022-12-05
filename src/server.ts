@@ -12,5 +12,5 @@ app.use(express.urlencoded())
 app.use(routes)
 
 app.listen(process.env.PORT || 8819, () => {
-  console.log(`Rodando na porta 223`)
+  console.log(`Rodando na porta ${process.env.PORT}`)
 })
