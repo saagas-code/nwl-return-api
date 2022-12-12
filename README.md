@@ -15,7 +15,7 @@ Projeto realizado durante a nwl-return da rocketseat, onde projetamos a parte ba
 
 ### License
 
-© [SaagaS](https://github.com/SaagaS0)
+© [SaagaS](https://github.com/saagas-code)
 
 
 
