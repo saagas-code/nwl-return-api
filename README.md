@@ -12,7 +12,8 @@ Projeto realizado durante a nwl-return da rocketseat, onde projetamos a parte ba
 <li>Jest para testes</li>
 </ul>
 
-<h1 align="center">[Documentacao](https://api-ignite-production-f438.up.railway.app/api-docs/)</h1>
+<h1 align="center">Documentacao</h1>
+Toda a api foi documentada usando [SWAGGER UI](https://swagger.io/tools/swagger-ui/)
 
 
 ### License
