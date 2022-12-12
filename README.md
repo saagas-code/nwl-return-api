@@ -12,8 +12,8 @@ Projeto realizado durante a nwl-return da rocketseat, onde projetamos a parte ba
 <li>Jest para testes</li>
 </ul>
 
-<h1 align="center">API nwl-return</h1>
-<br/>
+<h1 align="center">API nwl-return</h1><br />
+
 Toda api documentada usando [SWAGGER UI](https://swagger.io/tools/swagger-ui/)
 
 
