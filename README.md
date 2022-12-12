@@ -13,11 +13,6 @@ Projeto realizado durante a nwl-return da rocketseat, onde projetamos a parte ba
 </ul>
 
 
-<h1 align="center">Documentaçao</h1>
-
-Toda api documentada usando [SWAGGER UI](https://swagger.io/tools/swagger-ui/)
-![](https://user-images.githubusercontent.com/104795182/207172651-a0af3c73-9997-4cdb-99e1-55e69ebf8e0a.png)
-
 
 
 ### License
