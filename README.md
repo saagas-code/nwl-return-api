@@ -13,7 +13,7 @@ Projeto realizado durante a nwl-return da rocketseat, onde projetamos a parte ba
 </ul>
 
 
-[SWAGGERUI](https://swagger.io/tools/swagger-ui/)
+Toda api [SWAGGERUI](https://swagger.io/tools/swagger-ui/)
 
 
 ### License
